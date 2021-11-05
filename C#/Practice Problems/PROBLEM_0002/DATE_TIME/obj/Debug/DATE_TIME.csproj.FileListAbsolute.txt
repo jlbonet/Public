@@ -1,0 +1,7 @@
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0002\DATE_TIME\bin\Debug\DATE_TIME.exe.config
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0002\DATE_TIME\bin\Debug\DATE_TIME.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0002\DATE_TIME\bin\Debug\DATE_TIME.pdb
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0002\DATE_TIME\obj\Debug\DATE_TIME.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0002\DATE_TIME\obj\Debug\DATE_TIME.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0002\DATE_TIME\obj\Debug\DATE_TIME.pdb
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0002\DATE_TIME\obj\Debug\DATE_TIME.csproj.AssemblyReference.cache
