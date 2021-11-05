@@ -1,0 +1,6 @@
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0003\SQUARE_ROOT\bin\Debug\SQUARE_ROOT.exe.config
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0003\SQUARE_ROOT\bin\Debug\SQUARE_ROOT.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0003\SQUARE_ROOT\bin\Debug\SQUARE_ROOT.pdb
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0003\SQUARE_ROOT\obj\Debug\SQUARE_ROOT.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0003\SQUARE_ROOT\obj\Debug\SQUARE_ROOT.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0003\SQUARE_ROOT\obj\Debug\SQUARE_ROOT.pdb
