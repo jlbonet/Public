@@ -1,0 +1,7 @@
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0005\Hexadecimal_256\bin\Debug\Hexadecimal_256.exe.config
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0005\Hexadecimal_256\bin\Debug\Hexadecimal_256.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0005\Hexadecimal_256\bin\Debug\Hexadecimal_256.pdb
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0005\Hexadecimal_256\obj\Debug\Hexadecimal_256.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0005\Hexadecimal_256\obj\Debug\Hexadecimal_256.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0005\Hexadecimal_256\obj\Debug\Hexadecimal_256.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0005\Hexadecimal_256\obj\Debug\Hexadecimal_256.pdb
