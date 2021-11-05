@@ -1,0 +1,1 @@
+Write a program that prints the following numbers on the console 1, 101, 1001, each on a new line, up to total of 10 numbers.
