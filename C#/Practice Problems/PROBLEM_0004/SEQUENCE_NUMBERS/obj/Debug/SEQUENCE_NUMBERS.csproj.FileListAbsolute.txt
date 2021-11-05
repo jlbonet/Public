@@ -1,0 +1,7 @@
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0004\SEQUENCE_NUMBERS\bin\Debug\SEQUENCE_NUMBERS.exe.config
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0004\SEQUENCE_NUMBERS\bin\Debug\SEQUENCE_NUMBERS.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0004\SEQUENCE_NUMBERS\bin\Debug\SEQUENCE_NUMBERS.pdb
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0004\SEQUENCE_NUMBERS\obj\Debug\SEQUENCE_NUMBERS.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0004\SEQUENCE_NUMBERS\obj\Debug\SEQUENCE_NUMBERS.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0004\SEQUENCE_NUMBERS\obj\Debug\SEQUENCE_NUMBERS.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0004\SEQUENCE_NUMBERS\obj\Debug\SEQUENCE_NUMBERS.pdb
