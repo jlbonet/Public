@@ -1,1 +1,1 @@
-Folder with test exercises and solved exercises.
+Folder with algorithms.
