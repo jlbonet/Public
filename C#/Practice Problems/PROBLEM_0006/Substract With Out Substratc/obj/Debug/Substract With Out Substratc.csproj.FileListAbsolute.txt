@@ -1,0 +1,7 @@
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0006\Substract With Out Substratc\obj\Debug\Substract With Out Substratc.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0006\Substract With Out Substratc\obj\Debug\Substract With Out Substratc.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0006\Substract With Out Substratc\bin\Debug\Substract With Out Substratc.exe.config
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0006\Substract With Out Substratc\bin\Debug\Substract With Out Substratc.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0006\Substract With Out Substratc\bin\Debug\Substract With Out Substratc.pdb
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0006\Substract With Out Substratc\obj\Debug\Substract With Out Substratc.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0006\Substract With Out Substratc\obj\Debug\Substract With Out Substratc.pdb
