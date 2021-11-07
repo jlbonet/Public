@@ -1,0 +1,7 @@
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0007\odd_even\bin\Debug\odd_even.exe.config
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0007\odd_even\bin\Debug\odd_even.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0007\odd_even\bin\Debug\odd_even.pdb
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0007\odd_even\obj\Debug\odd_even.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0007\odd_even\obj\Debug\odd_even.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0007\odd_even\obj\Debug\odd_even.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0007\odd_even\obj\Debug\odd_even.pdb
