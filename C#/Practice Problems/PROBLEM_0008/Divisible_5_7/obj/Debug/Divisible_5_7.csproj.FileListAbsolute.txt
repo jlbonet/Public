@@ -1,0 +1,7 @@
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0008\Divisible_5_7\bin\Debug\Divisible_5_7.exe.config
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0008\Divisible_5_7\bin\Debug\Divisible_5_7.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0008\Divisible_5_7\bin\Debug\Divisible_5_7.pdb
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0008\Divisible_5_7\obj\Debug\Divisible_5_7.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0008\Divisible_5_7\obj\Debug\Divisible_5_7.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0008\Divisible_5_7\obj\Debug\Divisible_5_7.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0008\Divisible_5_7\obj\Debug\Divisible_5_7.pdb
