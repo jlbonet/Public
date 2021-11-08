@@ -1,0 +1,2 @@
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0010\Third_bit\obj\Debug\Third_bit.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0010\Third_bit\obj\Debug\Third_bit.csproj.CoreCompileInputs.cache
