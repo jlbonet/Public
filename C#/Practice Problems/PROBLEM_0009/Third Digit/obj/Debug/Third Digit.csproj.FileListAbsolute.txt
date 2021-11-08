@@ -1,0 +1,7 @@
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0009\Third Digit\bin\Debug\Third Digit.exe.config
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0009\Third Digit\bin\Debug\Third Digit.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0009\Third Digit\bin\Debug\Third Digit.pdb
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0009\Third Digit\obj\Debug\Third Digit.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0009\Third Digit\obj\Debug\Third Digit.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0009\Third Digit\obj\Debug\Third Digit.exe
+C:\Users\Developer\source\repos\Public\C#\Practice Problems\PROBLEM_0009\Third Digit\obj\Debug\Third Digit.pdb
