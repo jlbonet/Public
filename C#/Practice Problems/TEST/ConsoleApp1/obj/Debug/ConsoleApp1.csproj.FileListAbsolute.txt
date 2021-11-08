@@ -1,6 +1,0 @@
-C:\Users\Developer\source\repos\Public\C#\Practice Problems\TEST\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\Developer\source\repos\Public\C#\Practice Problems\TEST\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\Developer\source\repos\Public\C#\Practice Problems\TEST\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\Developer\source\repos\Public\C#\Practice Problems\TEST\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\Developer\source\repos\Public\C#\Practice Problems\TEST\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\Developer\source\repos\Public\C#\Practice Problems\TEST\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
