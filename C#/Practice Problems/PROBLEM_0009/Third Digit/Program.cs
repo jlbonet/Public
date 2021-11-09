@@ -7,29 +7,30 @@ using System.Threading.Tasks;
 namespace Third_Digit
 
 /*
- * Write an expression that checks whether the third bit in a given integer is 1 or 0.
+ *looks for a given integer if its third digit (right to left) is 7.
  */
 {
 	class Program
 	{
+		
 		static void Main(string[] args)
 		{
 			Random aleatorio = new Random();
 
 			for (int contador = 0; contador < 50; contador++)
 			{
-				byte numero = (byte)aleatorio.Next(256);
+				ulong numero = (ulong)aleatorio.Next(1000000, 1500000);
 				string cadena = numero.ToString();
 				char caracter;
 				caracter = cadena[4];
-				if (caracter == '1')
+				if (caracter == '7')
 				{
-					Console.WriteLine($"This number {numero} contains a 1 in third psotion from rigth" );
+					Console.WriteLine($"This number {numero} contains a 7 in third psotion");
 				}
 
-				else 
-				{ 
-					Console.WriteLine($"This number {numero} contains a 0 in third psotion from rigth"); 
+				else
+				{
+					Console.WriteLine($"This number {numero} NOT is valid");
 				}
 			}
 			Console.ReadLine();

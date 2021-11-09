@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Third_Digit
 
 /*
- *Write an expression that checks whether the third bit in a given integer is 1 or 0
+ * Write an expression that checks whether the third bit in a given integer is 1 or 0.
  */
 {
 	class Program
@@ -18,22 +18,18 @@ namespace Third_Digit
 
 			for (int contador = 0; contador < 50; contador++)
 			{
-				ulong numero = (ulong)aleatorio.Next(1500000);
-				numero[]
-				//string cadena = numero.ToString();
-				//byte numeroBit = ((byte)numero);
-				
-				//numeroBit.
-				//char caracter;
-				//caracter = cadena[2];
-				if (caracter == '7')
+				byte numero = (byte)aleatorio.Next(256);
+				string cadena = numero.ToString();
+				char caracter;
+				caracter = cadena[1];
+				/*if (caracter == '1')
 				{
-					Console.WriteLine($"This number {numero} contains a 7 in third psotion");
+					Console.WriteLine($"This number {numero} contains a 1 in third psotion from rigth");
 				}
 
 				else
 				{
-					Console.WriteLine($"This number {numero} NOT is valid");
+					Console.WriteLine($"This number {numero} contains a 0 in third psotion from rigth");
 				}
 			}
 			Console.ReadLine();
