@@ -90,7 +90,7 @@ while contador < 1 :
                 num1 = input("introduce la primera fracción del modo x/y: ")
                 num2 = input("introduce la segunda fracción del modo x/y: ")
 
-                if not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]\/[0-9])$', num1) or not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]\/[0-9])$', num2) :
+                if not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]+\/[0-9]+)$', num1) or not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]+\/[0-9]+)$', num2) :
                     print("No has introducido una de los fracciones correctamente, por favor, vuelve a introducirlas.\n")
                 else :
                     l1 = num1.replace("/", " ").split()
@@ -109,7 +109,7 @@ while contador < 1 :
                 num1 = input("introduce la primera fracción del modo x/y: ")
                 num2 = input("introduce la segunda fracción del modo x/y: ")
 
-                if not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]\/[0-9])$', num1) or not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]\/[0-9])$', num2) :
+                if not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]+\/[0-9]+)$', num1) or not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]+\/[0-9]+)$', num2) :
                     print("No has introducido una de los fracciones correctamente, por favor, vuelve a introducirlas.\n")
                 else :
                     l1 = num1.replace("/", " ").split()
@@ -128,7 +128,7 @@ while contador < 1 :
                 num1 = input("introduce la primera fracción del modo x/y: ")
                 num2 = input("introduce la segunda fracción del modo x/y: ")
 
-                if not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]\/[0-9])$', num1) or not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]\/[0-9])$', num2) :
+                if not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]+\/[0-9]+)$', num1) or not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]+\/[0-9]+)$', num2) :
                     print("No has introducido una de los fracciones correctamente, por favor, vuelve a introducirlas.\n")
                 else :
                     l1 = num1.replace("/", " ").split()
@@ -147,7 +147,7 @@ while contador < 1 :
                 num1 = input("introduce la primera fracción del modo x/y: ")
                 num2 = input("introduce la segunda fracción del modo x/y: ")
 
-                if not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]\/[0-9])$', num1) or not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]\/[0-9])$', num2) :
+                if not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]+\/[0-9]+)$', num1) or not re.match('^([0-9]+\.[0-9]+\/[0-9]+\.[0-9]+|[0-9]+[0-9]+\/[0-9]+[0-9]+|[0-9]+\/[0-9]+)$', num2) :
                     print("No has introducido una de los fracciones correctamente, por favor, vuelve a introducirlas.\n")
                 else :
                     l1 = num1.replace("/", " ").split()
