@@ -13,6 +13,7 @@ import re
 # Definimos una clase básica para las operaciones a realizar.
 class Calculadora :
     
+    
     def __init__(self) :
         pass
         
