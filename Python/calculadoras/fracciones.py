@@ -1,5 +1,5 @@
 """
-Programa para la creación de una calculadora de fracciones mediante el uso de clases.
+Programa para la creación de una calculadora de fracciones básica mediante el uso de clases.
 
 Operaciones:
 Sumar
@@ -8,12 +8,12 @@ Multiplicar
 Dividir
 
 """
+
 import re
 
 class Fracciones :
     
     def __init__(self, n1, d1, n2, d2) :
-        
         self.n1 = n1
         self.d1 = d1
         self.n2 = n2
