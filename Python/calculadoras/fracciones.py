@@ -1,12 +1,10 @@
 """
 Programa para la creación de una calculadora de fracciones básica mediante el uso de clases.
-
 Operaciones:
 Sumar
 Restar
 Multiplicar
 Dividir
-
 """
 
 import re
